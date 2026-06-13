@@ -16,7 +16,7 @@
 # nested map   name = each.value.rg_name and locatio = each.value.location
 rgs = {
   rg1 = {
-    rg_name = "RAW"
+    rg_name = "DON"
     location = "Central India"
   }
   rg2 = {
