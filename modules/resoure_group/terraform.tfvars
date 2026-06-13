@@ -21,6 +21,6 @@ rgs = {
   }
   rg2 = {
     rg_name = "SAW"
-    location = "eastus"
+    location = "westus"
   }
 } 
